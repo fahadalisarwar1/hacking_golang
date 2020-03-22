@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76ceb7a1-bfdb-4337-bb9d-e4dd9f8d0def" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$PROJECT_DIR$/../../go1.14rc1" />
+  <component name="ProjectId" id="1XUvq3Z556J5BFX6vusjb20MQJP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="554" y="169" width="810" height="680" key="#GOROOT" timestamp="1581114247370">
+      <screen x="0" y="31" width="1918" height="948" />
+    </state>
+    <state x="554" y="169" width="810" height="680" key="#GOROOT/0.31.1918.948@0.31.1918.948" timestamp="1581114247370" />
+    <state x="644" y="312" width="629" height="394" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581692117092">
+      <screen x="0" y="31" width="1918" height="948" />
+    </state>
+    <state x="644" y="312" width="629" height="394" key="#com.intellij.fileTypes.FileTypeChooser/0.31.1918.948@0.31.1918.948" timestamp="1581692117092" />
+    <state x="448" y="142" width="1022" height="733" key="SettingsEditor" timestamp="1581114264013">
+      <screen x="0" y="31" width="1918" height="948" />
+    </state>
+    <state x="448" y="142" width="1022" height="733" key="SettingsEditor/0.31.1918.948@0.31.1918.948" timestamp="1581114264013" />
+    <state x="622" y="238" width="672" height="678" key="search.everywhere.popup" timestamp="1581278982170">
+      <screen x="0" y="31" width="1918" height="948" />
+    </state>
+    <state x="622" y="238" width="672" height="678" key="search.everywhere.popup/0.31.1918.948@0.31.1918.948" timestamp="1581278982170" />
+  </component>
+</project>
